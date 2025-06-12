@@ -1,2 +1,2 @@
 print("a")
-print("sum")
+print("a+b+C")
